@@ -103,3 +103,16 @@ Por outro lado, os contras incluem a dificuldade de capturar nuances humanas e e
    Todo o projeto e o conteúdo deste README, foi criado com o suporte de IA, contudo tudo foi revisado por uma ser 100% humano.
 </p>
 </div>
+
+## 👨‍💻 DEV
+
+<p>
+   <p>&nbsp&nbsp&nbspAlvaro Monteiro<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/Alvaro-MSJR/">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/alvaro-monteiro-silva-a0a1581a">LinkedIn</a>
+    </p>
+</p>
+<br/><br/>
+<p>
